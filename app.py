@@ -18,4 +18,26 @@ semantics refer to the meaning or the interpretation of the symbols, character, 
 
 '''
 
+# Case sensitivity
 
+
+# Funamental Data Types
+
+#int 
+#float
+#bool
+#str
+#list
+#tuple
+#set
+#dict
+
+
+a=2.77
+
+# **
+# //
+# %
+
+
+print(type (a))

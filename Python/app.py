@@ -21,3 +21,42 @@ semantics refer to the meaning or the interpretation of the symbols, character, 
 
 
 
+print("I m Learning \nPython")
+# Q.1) \", \', \\, \n
+# Q.2) Java
+
+
+print("This is my Name","Suman Bhandari",sep="Damnn")
+print("This is Just Test")
+
+
+
+
+# suman
+# Suman
+
+# Addition
+# Sub
+# Mul
+# Div
+# Floor Div
+# Modulus
+# Exponentiation
+
+
+
+
+
+
+
+# Numpy:  is a library numpy it  add the support for Multi-dimensional arrays and matrices
+# Pandas : it provide data Structure and functions to efficiently manipulate tabular data  
+# Matplotlip : animated, static, interactive visilizaion 
+
+
+
+
+
+arr = [[1,2,3,4],[2,3,4,5]]
+
+
